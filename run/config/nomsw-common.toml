@@ -1,0 +1,38 @@
+#Measure time from JVM process start until the game is fully booted (title screen / server started).
+measureBoot = true
+#Measure time from opening/joining a world until you can fully interact with it.
+measureWorldLoad = true
+#Append timing results to logs/notonmystopwatch/timings.log
+writeLogFile = true
+#Show a client chat message when world load timing completes.
+chatAnnounce = true
+#Show boot load time as text underneath the main menu on the title screen.
+showBootTimeOnTitle = true
+#Also show the last world-load time on the title screen (under the boot time), if available.
+showLastWorldLoadOnTitle = true
+
+[sounds]
+	#Play a sound when the world finishes loading and you can fully interact.
+	playWorldLoadSound = true
+	#Sound event id to play on world load complete.
+	#Default is the mod sound nomsw:world_load_complete (aliases ui.toast.challenge_complete).
+	#Any registered sound works, e.g. minecraft:entity.player.levelup or minecraft:block.note_block.chime.
+	worldLoadSoundId = "nomsw:world_load_complete"
+	#Volume for the world-load complete sound (0.0 – 1.0).
+	#Range: 0.0 ~ 1.0
+	worldLoadSoundVolume = 1.0
+	#Pitch for the world-load complete sound (0.5 – 2.0).
+	#Range: 0.5 ~ 2.0
+	worldLoadSoundPitch = 1.0
+	#Play a sound when game boot finishes (title screen on client).
+	playBootSound = false
+	#Sound event id to play on boot complete.
+	#Default is nomsw:boot_complete (aliases entity.experience_orb.pickup).
+	bootSoundId = "nomsw:boot_complete"
+	#Volume for the boot complete sound (0.0 – 1.0).
+	#Range: 0.0 ~ 1.0
+	bootSoundVolume = 0.8
+	#Pitch for the boot complete sound (0.5 – 2.0).
+	#Range: 0.5 ~ 2.0
+	bootSoundPitch = 1.0
+
