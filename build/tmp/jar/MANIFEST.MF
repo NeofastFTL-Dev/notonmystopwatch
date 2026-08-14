@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: nomsw
+Specification-Vendor: 
+Specification-Version: 1
+Implementation-Title: notonmystopwatch
+Implementation-Version: 1.0
+Implementation-Vendor: 
+Implementation-Timestamp: 2026-08-11T08:22:35+0200
+MixinConfigs: nomsw.mixins.json
+

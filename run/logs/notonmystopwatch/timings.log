@@ -1,0 +1,34 @@
+2026-08-10 09:01:11.936 | BOOT | Stopwatch started from JVM process start (client)
+2026-08-10 09:01:12.631 | BOOT | FMLCommonSetup reached
+2026-08-10 09:01:12.776 | BOOT | FMLClientSetup reached (boot still in progress until title screen)
+2026-08-10 09:01:17.049 | BOOT | duration=12.988s (12988 ms) | startEpoch=1786345264060 | endEpoch=1786345277049 | side=client | readyWhen=TitleScreen shown
+2026-08-10 09:01:23.004 | WORLD | Stopwatch started — load screen=GenericDirtMessageScreen
+2026-08-10 09:01:34.061 | WORLD | Load cancelled (logging out)
+2026-08-10 09:01:34.062 | WORLD | Stopwatch started — load screen=ProgressScreen
+2026-08-10 09:01:52.744 | WORLD | duration=18.682s (18682 ms) | startEpoch=1786345294062 | endEpoch=1786345312744 | load screen=ProgressScreen | readyWhen=player interactive
+2026-08-10 09:01:57.492 | WORLD | Stopwatch started — load screen=GenericDirtMessageScreen
+2026-08-10 09:01:59.382 | WORLD | Load cancelled (returned to title screen)
+2026-08-10 09:02:00.670 | WORLD | Stopwatch started — load screen=GenericDirtMessageScreen
+2026-08-10 09:02:05.424 | WORLD | Load cancelled (logging out)
+2026-08-10 09:02:05.424 | WORLD | Stopwatch started — load screen=ProgressScreen
+2026-08-10 09:02:16.002 | WORLD | duration=10.577s (10577 ms) | startEpoch=1786345325424 | endEpoch=1786345336002 | load screen=ProgressScreen | readyWhen=player interactive
+2026-08-10 09:02:18.541 | WORLD | Stopwatch started — load screen=GenericDirtMessageScreen
+2026-08-10 09:02:20.188 | WORLD | Load cancelled (returned to title screen)
+2026-08-10 09:02:20.658 | WORLD | Stopwatch started — load screen=ProgressScreen
+2026-08-10 09:04:30.324 | BOOT | Stopwatch started from JVM process start (client)
+2026-08-10 09:04:30.975 | BOOT | FMLCommonSetup reached
+2026-08-10 09:04:31.151 | BOOT | FMLClientSetup reached (boot still in progress until title screen)
+2026-08-10 09:04:33.134 | BOOT | duration=10.458s (10458 ms) | startEpoch=1786345462675 | endEpoch=1786345473134 | side=client | readyWhen=TitleScreen shown
+2026-08-10 09:04:41.077 | WORLD | Stopwatch started — load screen=ProgressScreen
+2026-08-10 09:18:27.075 | BOOT | Stopwatch started from JVM process start (client)
+2026-08-10 09:18:27.803 | BOOT | FMLCommonSetup reached
+2026-08-10 09:18:27.961 | BOOT | FMLClientSetup reached (boot still in progress until title screen)
+2026-08-10 09:18:29.788 | BOOT | duration=10.349s (10349 ms) | startEpoch=1786346299438 | endEpoch=1786346309788 | side=client | readyWhen=TitleScreen shown
+2026-08-10 09:18:48.615 | WORLD | Stopwatch started — load screen=GenericDirtMessageScreen
+2026-08-10 09:18:53.873 | WORLD | Load cancelled (logging out)
+2026-08-10 09:18:53.875 | WORLD | Stopwatch started — load screen=ProgressScreen
+2026-08-10 09:19:11.054 | WORLD | duration=17.180s (17180 ms) | startEpoch=1786346333874 | endEpoch=1786346351054 | load screen=ProgressScreen | readyWhen=player interactive
+2026-08-10 09:19:11.059 | WORLD | Played sound nomsw:world_load_complete (volume=1.0, pitch=1.0)
+2026-08-10 09:19:14.170 | WORLD | Stopwatch started — load screen=GenericDirtMessageScreen
+2026-08-10 09:19:16.031 | WORLD | Load cancelled (returned to title screen)
+2026-08-10 09:19:16.536 | WORLD | Stopwatch started — load screen=ProgressScreen

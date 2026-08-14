@@ -1,0 +1,20 @@
+{
+  "world_load_complete": {
+    "subtitle": "subtitles.nomsw.world_load_complete",
+    "sounds": [
+      {
+        "type": "event",
+        "name": "minecraft:ui.toast.challenge_complete"
+      }
+    ]
+  },
+  "boot_complete": {
+    "subtitle": "subtitles.nomsw.boot_complete",
+    "sounds": [
+      {
+        "type": "event",
+        "name": "minecraft:entity.experience_orb.pickup"
+      }
+    ]
+  }
+}
